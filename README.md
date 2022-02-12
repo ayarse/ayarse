@@ -4,24 +4,12 @@ I'm **Ayaz**, a Developer and Designer based in the Maldives 🇲🇻
 *I'm passionate about the kind of tech that is both beautiful, and makes the world beautiful.*
 
 #### Childhood adventures with MS FrontPage, Visual Basic 6 and Photoshop 7 lead me down this rabbit hole and I've been living happily in it ever since. I started out as a graphic designer, but quickly found myself `Designing UI's` and coding `Frontends`, `Backends` and later `API's` and `Mobile Apps`, all the while exploring different programming languages and frameworks.
-
-<br>
-
 ---
-
-<br>
-
 ## **I'm...**
 - 🧑🏽‍💻 Currently making stuff @ [Dhiraagu](https://www.dhiraagu.com.mv/).
 - 🌱 Learning more on Telecom, System Design, Rust, .NET Core, Nest.js, AWS, A11y
 - 🤩 Fascinated by HCI and Tech Education.
-
-<br>
-
 ---
-
-
-<br>
 
 ## **Tech I love working with:**
 ---
