@@ -1,7 +1,7 @@
 # Hey there 👋
 
 I'm **Ayaz**, a Developer and Designer based in the Maldives 🇲🇻   
-*I'm passionate about the kind of tech that is both beautiful, and makes the world beautiful.*
+I'm passionate about the kind of tech that is both beautiful, and makes the world beautiful.
 
 #### Childhood adventures with MS FrontPage, Visual Basic 6 and Photoshop 7 lead me down this rabbit hole and I've been living happily in it ever since. I started out as a graphic designer, but quickly found myself `Designing UI's` and coding `Frontends`, `Backends` and later `API's` and `Mobile Apps`, all the while exploring different programming languages and frameworks.
 ---
@@ -12,7 +12,6 @@ I'm **Ayaz**, a Developer and Designer based in the Maldives 🇲🇻
 ---
 
 ## **Tech I love working with:**
----
 
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Alpine.js](https://img.shields.io/badge/AlpineJS-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black
 ) 
