@@ -26,4 +26,5 @@ Childhood adventures with MS FrontPage, Visual Basic 6 and Photoshop 7 lead me d
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayarse&layout=compact)](https://github.com/ayarse/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayarse&layout=compact)](https://github.com/ayarse/)  
+![](https://komarev.com/ghpvc/?username=ayarse&color=green)
