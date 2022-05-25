@@ -7,7 +7,7 @@ Childhood adventures with MS FrontPage, Visual Basic 6 and Photoshop 7 lead me d
 
 ---
 ## **I'm...**
-- 🧑🏽‍💻 Currently making stuff @ [Dhiraagu](https://www.dhiraagu.com.mv/).
+- 🧑🏽‍💻 Currently making stuff [@LottieFiles](https://www.lottiefiles.com/).
 - 🌱 Learning more on Telecom, System Design, Rust, .NET Core, Nest.js, AWS, A11y
 - 🤩 Fascinated by HCI and Tech Education.
 ---
