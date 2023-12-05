@@ -10,7 +10,6 @@ I'm **Ayaz**, a Full Stack Developer and Designer based in the Maldives 🇲🇻
 
 ## **I'm...**
 
-- 🧑🏽‍💻 Currently making stuff @ [@LottieFiles](https://www.lottiefiles.com).
 - 🌱 Learning more on System Design, Golang, AWS, and A11y
 - 🤩 Fascinated by HCI and Tech Education.
 
